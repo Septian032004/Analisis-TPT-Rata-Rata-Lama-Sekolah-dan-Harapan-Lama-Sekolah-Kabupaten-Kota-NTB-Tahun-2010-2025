@@ -1,0 +1,1762 @@
+[
+  {
+    "#":1,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.01,
+    "Kode Kabupaten\/Kota":5201,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":7.15,
+    "Tahun":2025
+  },
+  {
+    "#":2,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.02,
+    "Kode Kabupaten\/Kota":5202,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Tengah",
+    "Rata-Rata Lama Sekolah (Tahun)":7.08,
+    "Tahun":2025
+  },
+  {
+    "#":3,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.03,
+    "Kode Kabupaten\/Kota":5203,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Timur",
+    "Rata-Rata Lama Sekolah (Tahun)":7.71,
+    "Tahun":2025
+  },
+  {
+    "#":4,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.04,
+    "Kode Kabupaten\/Kota":5204,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa",
+    "Rata-Rata Lama Sekolah (Tahun)":8.88,
+    "Tahun":2025
+  },
+  {
+    "#":5,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.05,
+    "Kode Kabupaten\/Kota":5205,
+    "Nama Kabupaten\/Kota":"Kabupaten Dompu",
+    "Rata-Rata Lama Sekolah (Tahun)":9.38,
+    "Tahun":2025
+  },
+  {
+    "#":6,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.07,
+    "Kode Kabupaten\/Kota":5207,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":9.35,
+    "Tahun":2025
+  },
+  {
+    "#":7,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.08,
+    "Kode Kabupaten\/Kota":5208,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Utara",
+    "Rata-Rata Lama Sekolah (Tahun)":6.75,
+    "Tahun":2025
+  },
+  {
+    "#":8,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.71,
+    "Kode Kabupaten\/Kota":5271,
+    "Nama Kabupaten\/Kota":"Kota Mataram",
+    "Rata-Rata Lama Sekolah (Tahun)":9.89,
+    "Tahun":2025
+  },
+  {
+    "#":9,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.72,
+    "Kode Kabupaten\/Kota":5272,
+    "Nama Kabupaten\/Kota":"Kota Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":10.97,
+    "Tahun":2025
+  },
+  {
+    "#":10,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.0,
+    "Kode Kabupaten\/Kota":5200,
+    "Nama Kabupaten\/Kota":"Nusa Tenggara Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":8.21,
+    "Tahun":2025
+  },
+  {
+    "#":11,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.01,
+    "Kode Kabupaten\/Kota":5201,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":6.88,
+    "Tahun":2024
+  },
+  {
+    "#":12,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.02,
+    "Kode Kabupaten\/Kota":5202,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Tengah",
+    "Rata-Rata Lama Sekolah (Tahun)":6.73,
+    "Tahun":2024
+  },
+  {
+    "#":13,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.03,
+    "Kode Kabupaten\/Kota":5203,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Timur",
+    "Rata-Rata Lama Sekolah (Tahun)":7.36,
+    "Tahun":2024
+  },
+  {
+    "#":14,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.04,
+    "Kode Kabupaten\/Kota":5204,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa",
+    "Rata-Rata Lama Sekolah (Tahun)":8.59,
+    "Tahun":2024
+  },
+  {
+    "#":15,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.05,
+    "Kode Kabupaten\/Kota":5205,
+    "Nama Kabupaten\/Kota":"Kabupaten Dompu",
+    "Rata-Rata Lama Sekolah (Tahun)":9.04,
+    "Tahun":2024
+  },
+  {
+    "#":16,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.06,
+    "Kode Kabupaten\/Kota":5206,
+    "Nama Kabupaten\/Kota":"Kabupaten Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":8.3,
+    "Tahun":2024
+  },
+  {
+    "#":17,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.07,
+    "Kode Kabupaten\/Kota":5207,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":8.99,
+    "Tahun":2024
+  },
+  {
+    "#":18,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.08,
+    "Kode Kabupaten\/Kota":5208,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Utara",
+    "Rata-Rata Lama Sekolah (Tahun)":6.4,
+    "Tahun":2024
+  },
+  {
+    "#":19,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.71,
+    "Kode Kabupaten\/Kota":5271,
+    "Nama Kabupaten\/Kota":"Kota Mataram",
+    "Rata-Rata Lama Sekolah (Tahun)":9.58,
+    "Tahun":2024
+  },
+  {
+    "#":20,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.72,
+    "Kode Kabupaten\/Kota":5272,
+    "Nama Kabupaten\/Kota":"Kota Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":10.96,
+    "Tahun":2024
+  },
+  {
+    "#":21,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.0,
+    "Kode Kabupaten\/Kota":5200,
+    "Nama Kabupaten\/Kota":"Nusa Tenggara Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":7.87,
+    "Tahun":2024
+  },
+  {
+    "#":22,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.06,
+    "Kode Kabupaten\/Kota":5206,
+    "Nama Kabupaten\/Kota":"Kabupaten Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":8.61,
+    "Tahun":2024
+  },
+  {
+    "#":23,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.01,
+    "Kode Kabupaten\/Kota":5201,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":6.87,
+    "Tahun":2023
+  },
+  {
+    "#":24,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.02,
+    "Kode Kabupaten\/Kota":5202,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Tengah",
+    "Rata-Rata Lama Sekolah (Tahun)":6.61,
+    "Tahun":2023
+  },
+  {
+    "#":25,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.03,
+    "Kode Kabupaten\/Kota":5203,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Timur",
+    "Rata-Rata Lama Sekolah (Tahun)":7.12,
+    "Tahun":2023
+  },
+  {
+    "#":26,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.04,
+    "Kode Kabupaten\/Kota":5204,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa",
+    "Rata-Rata Lama Sekolah (Tahun)":8.52,
+    "Tahun":2023
+  },
+  {
+    "#":27,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.05,
+    "Kode Kabupaten\/Kota":5205,
+    "Nama Kabupaten\/Kota":"Kabupaten Dompu",
+    "Rata-Rata Lama Sekolah (Tahun)":8.97,
+    "Tahun":2023
+  },
+  {
+    "#":28,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.06,
+    "Kode Kabupaten\/Kota":5206,
+    "Nama Kabupaten\/Kota":"Kabupaten Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":8.29,
+    "Tahun":2023
+  },
+  {
+    "#":29,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.07,
+    "Kode Kabupaten\/Kota":5207,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":8.98,
+    "Tahun":2023
+  },
+  {
+    "#":30,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.08,
+    "Kode Kabupaten\/Kota":5208,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Utara",
+    "Rata-Rata Lama Sekolah (Tahun)":6.39,
+    "Tahun":2023
+  },
+  {
+    "#":31,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.71,
+    "Kode Kabupaten\/Kota":5271,
+    "Nama Kabupaten\/Kota":"Kota Mataram",
+    "Rata-Rata Lama Sekolah (Tahun)":9.56,
+    "Tahun":2023
+  },
+  {
+    "#":32,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.72,
+    "Kode Kabupaten\/Kota":5272,
+    "Nama Kabupaten\/Kota":"Kota Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":10.95,
+    "Tahun":2023
+  },
+  {
+    "#":33,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.0,
+    "Kode Kabupaten\/Kota":5200,
+    "Nama Kabupaten\/Kota":"Nusa Tenggara Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":7.74,
+    "Tahun":2023
+  },
+  {
+    "#":34,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.01,
+    "Kode Kabupaten\/Kota":5201,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":6.6,
+    "Tahun":2022
+  },
+  {
+    "#":35,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.02,
+    "Kode Kabupaten\/Kota":5202,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Tengah",
+    "Rata-Rata Lama Sekolah (Tahun)":6.44,
+    "Tahun":2022
+  },
+  {
+    "#":36,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.03,
+    "Kode Kabupaten\/Kota":5203,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Timur",
+    "Rata-Rata Lama Sekolah (Tahun)":7.04,
+    "Tahun":2022
+  },
+  {
+    "#":37,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.04,
+    "Kode Kabupaten\/Kota":5204,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa",
+    "Rata-Rata Lama Sekolah (Tahun)":8.21,
+    "Tahun":2022
+  },
+  {
+    "#":38,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.05,
+    "Kode Kabupaten\/Kota":5205,
+    "Nama Kabupaten\/Kota":"Kabupaten Dompu",
+    "Rata-Rata Lama Sekolah (Tahun)":8.73,
+    "Tahun":2022
+  },
+  {
+    "#":39,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.06,
+    "Kode Kabupaten\/Kota":5206,
+    "Nama Kabupaten\/Kota":"Kabupaten Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":8.17,
+    "Tahun":2022
+  },
+  {
+    "#":40,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.07,
+    "Kode Kabupaten\/Kota":5207,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":8.9,
+    "Tahun":2022
+  },
+  {
+    "#":41,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.08,
+    "Kode Kabupaten\/Kota":5208,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Utara",
+    "Rata-Rata Lama Sekolah (Tahun)":6.3,
+    "Tahun":2022
+  },
+  {
+    "#":42,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.71,
+    "Kode Kabupaten\/Kota":5271,
+    "Nama Kabupaten\/Kota":"Kota Mataram",
+    "Rata-Rata Lama Sekolah (Tahun)":9.55,
+    "Tahun":2022
+  },
+  {
+    "#":43,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.72,
+    "Kode Kabupaten\/Kota":5272,
+    "Nama Kabupaten\/Kota":"Kota Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":10.94,
+    "Tahun":2022
+  },
+  {
+    "#":44,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.0,
+    "Kode Kabupaten\/Kota":5200,
+    "Nama Kabupaten\/Kota":"Nusa Tenggara Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":7.61,
+    "Tahun":2022
+  },
+  {
+    "#":45,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.01,
+    "Kode Kabupaten\/Kota":5201,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":6.42,
+    "Tahun":2021
+  },
+  {
+    "#":46,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.02,
+    "Kode Kabupaten\/Kota":5202,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Tengah",
+    "Rata-Rata Lama Sekolah (Tahun)":6.29,
+    "Tahun":2021
+  },
+  {
+    "#":47,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.03,
+    "Kode Kabupaten\/Kota":5203,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Timur",
+    "Rata-Rata Lama Sekolah (Tahun)":6.71,
+    "Tahun":2021
+  },
+  {
+    "#":48,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.04,
+    "Kode Kabupaten\/Kota":5204,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa",
+    "Rata-Rata Lama Sekolah (Tahun)":8.15,
+    "Tahun":2021
+  },
+  {
+    "#":49,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.05,
+    "Kode Kabupaten\/Kota":5205,
+    "Nama Kabupaten\/Kota":"Kabupaten Dompu",
+    "Rata-Rata Lama Sekolah (Tahun)":8.72,
+    "Tahun":2021
+  },
+  {
+    "#":50,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.06,
+    "Kode Kabupaten\/Kota":5206,
+    "Nama Kabupaten\/Kota":"Kabupaten Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":7.91,
+    "Tahun":2021
+  },
+  {
+    "#":51,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.07,
+    "Kode Kabupaten\/Kota":5207,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":8.72,
+    "Tahun":2021
+  },
+  {
+    "#":52,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.08,
+    "Kode Kabupaten\/Kota":5208,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Utara",
+    "Rata-Rata Lama Sekolah (Tahun)":6.04,
+    "Tahun":2021
+  },
+  {
+    "#":53,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.71,
+    "Kode Kabupaten\/Kota":5271,
+    "Nama Kabupaten\/Kota":"Kota Mataram",
+    "Rata-Rata Lama Sekolah (Tahun)":9.54,
+    "Tahun":2021
+  },
+  {
+    "#":54,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.72,
+    "Kode Kabupaten\/Kota":5272,
+    "Nama Kabupaten\/Kota":"Kota Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":10.65,
+    "Tahun":2021
+  },
+  {
+    "#":55,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.0,
+    "Kode Kabupaten\/Kota":5200,
+    "Nama Kabupaten\/Kota":"Nusa Tenggara Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":7.38,
+    "Tahun":2021
+  },
+  {
+    "#":56,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.01,
+    "Kode Kabupaten\/Kota":5201,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":6.41,
+    "Tahun":2020
+  },
+  {
+    "#":57,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.02,
+    "Kode Kabupaten\/Kota":5202,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Tengah",
+    "Rata-Rata Lama Sekolah (Tahun)":6.28,
+    "Tahun":2020
+  },
+  {
+    "#":58,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.03,
+    "Kode Kabupaten\/Kota":5203,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Timur",
+    "Rata-Rata Lama Sekolah (Tahun)":6.7,
+    "Tahun":2020
+  },
+  {
+    "#":59,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.04,
+    "Kode Kabupaten\/Kota":5204,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa",
+    "Rata-Rata Lama Sekolah (Tahun)":7.92,
+    "Tahun":2020
+  },
+  {
+    "#":60,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.05,
+    "Kode Kabupaten\/Kota":5205,
+    "Nama Kabupaten\/Kota":"Kabupaten Dompu",
+    "Rata-Rata Lama Sekolah (Tahun)":8.44,
+    "Tahun":2020
+  },
+  {
+    "#":61,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.06,
+    "Kode Kabupaten\/Kota":5206,
+    "Nama Kabupaten\/Kota":"Kabupaten Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":7.78,
+    "Tahun":2020
+  },
+  {
+    "#":62,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.07,
+    "Kode Kabupaten\/Kota":5207,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":8.66,
+    "Tahun":2020
+  },
+  {
+    "#":63,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.08,
+    "Kode Kabupaten\/Kota":5208,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Utara",
+    "Rata-Rata Lama Sekolah (Tahun)":5.91,
+    "Tahun":2020
+  },
+  {
+    "#":64,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.71,
+    "Kode Kabupaten\/Kota":5271,
+    "Nama Kabupaten\/Kota":"Kota Mataram",
+    "Rata-Rata Lama Sekolah (Tahun)":9.46,
+    "Tahun":2020
+  },
+  {
+    "#":65,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.72,
+    "Kode Kabupaten\/Kota":5272,
+    "Nama Kabupaten\/Kota":"Kota Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":10.49,
+    "Tahun":2020
+  },
+  {
+    "#":66,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.0,
+    "Kode Kabupaten\/Kota":5200,
+    "Nama Kabupaten\/Kota":"Nusa Tenggara Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":7.31,
+    "Tahun":2020
+  },
+  {
+    "#":67,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.01,
+    "Kode Kabupaten\/Kota":5201,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":6.37,
+    "Tahun":2019
+  },
+  {
+    "#":68,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.02,
+    "Kode Kabupaten\/Kota":5202,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Tengah",
+    "Rata-Rata Lama Sekolah (Tahun)":6.27,
+    "Tahun":2019
+  },
+  {
+    "#":69,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.03,
+    "Kode Kabupaten\/Kota":5203,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Timur",
+    "Rata-Rata Lama Sekolah (Tahun)":6.69,
+    "Tahun":2019
+  },
+  {
+    "#":70,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.04,
+    "Kode Kabupaten\/Kota":5204,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa",
+    "Rata-Rata Lama Sekolah (Tahun)":7.91,
+    "Tahun":2019
+  },
+  {
+    "#":71,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.05,
+    "Kode Kabupaten\/Kota":5205,
+    "Nama Kabupaten\/Kota":"Kabupaten Dompu",
+    "Rata-Rata Lama Sekolah (Tahun)":8.4,
+    "Tahun":2019
+  },
+  {
+    "#":72,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.06,
+    "Kode Kabupaten\/Kota":5206,
+    "Nama Kabupaten\/Kota":"Kabupaten Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":7.77,
+    "Tahun":2019
+  },
+  {
+    "#":73,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.07,
+    "Kode Kabupaten\/Kota":5207,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":8.53,
+    "Tahun":2019
+  },
+  {
+    "#":74,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.08,
+    "Kode Kabupaten\/Kota":5208,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Utara",
+    "Rata-Rata Lama Sekolah (Tahun)":5.84,
+    "Tahun":2019
+  },
+  {
+    "#":75,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.71,
+    "Kode Kabupaten\/Kota":5271,
+    "Nama Kabupaten\/Kota":"Kota Mataram",
+    "Rata-Rata Lama Sekolah (Tahun)":9.45,
+    "Tahun":2019
+  },
+  {
+    "#":76,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.72,
+    "Kode Kabupaten\/Kota":5272,
+    "Nama Kabupaten\/Kota":"Kota Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":10.38,
+    "Tahun":2019
+  },
+  {
+    "#":77,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.0,
+    "Kode Kabupaten\/Kota":5200,
+    "Nama Kabupaten\/Kota":"Nusa Tenggara Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":7.27,
+    "Tahun":2019
+  },
+  {
+    "#":78,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.01,
+    "Kode Kabupaten\/Kota":5201,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":6.16,
+    "Tahun":2018
+  },
+  {
+    "#":79,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.02,
+    "Kode Kabupaten\/Kota":5202,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Tengah",
+    "Rata-Rata Lama Sekolah (Tahun)":5.96,
+    "Tahun":2018
+  },
+  {
+    "#":80,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.03,
+    "Kode Kabupaten\/Kota":5203,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Timur",
+    "Rata-Rata Lama Sekolah (Tahun)":6.45,
+    "Tahun":2018
+  },
+  {
+    "#":81,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.04,
+    "Kode Kabupaten\/Kota":5204,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa",
+    "Rata-Rata Lama Sekolah (Tahun)":7.72,
+    "Tahun":2018
+  },
+  {
+    "#":82,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.05,
+    "Kode Kabupaten\/Kota":5205,
+    "Nama Kabupaten\/Kota":"Kabupaten Dompu",
+    "Rata-Rata Lama Sekolah (Tahun)":8.12,
+    "Tahun":2018
+  },
+  {
+    "#":83,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.06,
+    "Kode Kabupaten\/Kota":5206,
+    "Nama Kabupaten\/Kota":"Kabupaten Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":7.59,
+    "Tahun":2018
+  },
+  {
+    "#":84,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.07,
+    "Kode Kabupaten\/Kota":5207,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":8.24,
+    "Tahun":2018
+  },
+  {
+    "#":85,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.08,
+    "Kode Kabupaten\/Kota":5208,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Utara",
+    "Rata-Rata Lama Sekolah (Tahun)":5.81,
+    "Tahun":2018
+  },
+  {
+    "#":86,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.71,
+    "Kode Kabupaten\/Kota":5271,
+    "Nama Kabupaten\/Kota":"Kota Mataram",
+    "Rata-Rata Lama Sekolah (Tahun)":9.43,
+    "Tahun":2018
+  },
+  {
+    "#":87,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.72,
+    "Kode Kabupaten\/Kota":5272,
+    "Nama Kabupaten\/Kota":"Kota Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":10.3,
+    "Tahun":2018
+  },
+  {
+    "#":88,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.0,
+    "Kode Kabupaten\/Kota":5200,
+    "Nama Kabupaten\/Kota":"Nusa Tenggara Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":7.03,
+    "Tahun":2018
+  },
+  {
+    "#":89,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.01,
+    "Kode Kabupaten\/Kota":5201,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":6.15,
+    "Tahun":2017
+  },
+  {
+    "#":90,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.02,
+    "Kode Kabupaten\/Kota":5202,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Tengah",
+    "Rata-Rata Lama Sekolah (Tahun)":5.95,
+    "Tahun":2017
+  },
+  {
+    "#":91,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.03,
+    "Kode Kabupaten\/Kota":5203,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Timur",
+    "Rata-Rata Lama Sekolah (Tahun)":6.32,
+    "Tahun":2017
+  },
+  {
+    "#":92,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.04,
+    "Kode Kabupaten\/Kota":5204,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa",
+    "Rata-Rata Lama Sekolah (Tahun)":7.54,
+    "Tahun":2017
+  },
+  {
+    "#":93,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.05,
+    "Kode Kabupaten\/Kota":5205,
+    "Nama Kabupaten\/Kota":"Kabupaten Dompu",
+    "Rata-Rata Lama Sekolah (Tahun)":8.11,
+    "Tahun":2017
+  },
+  {
+    "#":94,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.06,
+    "Kode Kabupaten\/Kota":5206,
+    "Nama Kabupaten\/Kota":"Kabupaten Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":7.58,
+    "Tahun":2017
+  },
+  {
+    "#":95,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.07,
+    "Kode Kabupaten\/Kota":5207,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":8.18,
+    "Tahun":2017
+  },
+  {
+    "#":96,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.08,
+    "Kode Kabupaten\/Kota":5208,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Utara",
+    "Rata-Rata Lama Sekolah (Tahun)":5.54,
+    "Tahun":2017
+  },
+  {
+    "#":97,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.71,
+    "Kode Kabupaten\/Kota":5271,
+    "Nama Kabupaten\/Kota":"Kota Mataram",
+    "Rata-Rata Lama Sekolah (Tahun)":9.32,
+    "Tahun":2017
+  },
+  {
+    "#":98,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.72,
+    "Kode Kabupaten\/Kota":5272,
+    "Nama Kabupaten\/Kota":"Kota Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":10.14,
+    "Tahun":2017
+  },
+  {
+    "#":99,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.0,
+    "Kode Kabupaten\/Kota":5200,
+    "Nama Kabupaten\/Kota":"Nusa Tenggara Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":6.9,
+    "Tahun":2017
+  },
+  {
+    "#":100,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.01,
+    "Kode Kabupaten\/Kota":5201,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":5.93,
+    "Tahun":2016
+  },
+  {
+    "#":101,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.02,
+    "Kode Kabupaten\/Kota":5202,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Tengah",
+    "Rata-Rata Lama Sekolah (Tahun)":5.6,
+    "Tahun":2016
+  },
+  {
+    "#":102,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.03,
+    "Kode Kabupaten\/Kota":5203,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Timur",
+    "Rata-Rata Lama Sekolah (Tahun)":6.26,
+    "Tahun":2016
+  },
+  {
+    "#":103,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.04,
+    "Kode Kabupaten\/Kota":5204,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa",
+    "Rata-Rata Lama Sekolah (Tahun)":7.53,
+    "Tahun":2016
+  },
+  {
+    "#":104,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.05,
+    "Kode Kabupaten\/Kota":5205,
+    "Nama Kabupaten\/Kota":"Kabupaten Dompu",
+    "Rata-Rata Lama Sekolah (Tahun)":8.1,
+    "Tahun":2016
+  },
+  {
+    "#":105,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.06,
+    "Kode Kabupaten\/Kota":5206,
+    "Nama Kabupaten\/Kota":"Kabupaten Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":7.45,
+    "Tahun":2016
+  },
+  {
+    "#":106,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.07,
+    "Kode Kabupaten\/Kota":5207,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":8.05,
+    "Tahun":2016
+  },
+  {
+    "#":107,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.08,
+    "Kode Kabupaten\/Kota":5208,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Utara",
+    "Rata-Rata Lama Sekolah (Tahun)":5.47,
+    "Tahun":2016
+  },
+  {
+    "#":108,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.71,
+    "Kode Kabupaten\/Kota":5271,
+    "Nama Kabupaten\/Kota":"Kota Mataram",
+    "Rata-Rata Lama Sekolah (Tahun)":9.25,
+    "Tahun":2016
+  },
+  {
+    "#":109,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.72,
+    "Kode Kabupaten\/Kota":5272,
+    "Nama Kabupaten\/Kota":"Kota Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":10.13,
+    "Tahun":2016
+  },
+  {
+    "#":110,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.0,
+    "Kode Kabupaten\/Kota":5200,
+    "Nama Kabupaten\/Kota":"Nusa Tenggara Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":6.79,
+    "Tahun":2016
+  },
+  {
+    "#":111,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.01,
+    "Kode Kabupaten\/Kota":5201,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":5.69,
+    "Tahun":2015
+  },
+  {
+    "#":112,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.02,
+    "Kode Kabupaten\/Kota":5202,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Tengah",
+    "Rata-Rata Lama Sekolah (Tahun)":5.54,
+    "Tahun":2015
+  },
+  {
+    "#":113,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.03,
+    "Kode Kabupaten\/Kota":5203,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Timur",
+    "Rata-Rata Lama Sekolah (Tahun)":6.15,
+    "Tahun":2015
+  },
+  {
+    "#":114,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.04,
+    "Kode Kabupaten\/Kota":5204,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa",
+    "Rata-Rata Lama Sekolah (Tahun)":7.52,
+    "Tahun":2015
+  },
+  {
+    "#":115,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.05,
+    "Kode Kabupaten\/Kota":5205,
+    "Nama Kabupaten\/Kota":"Kabupaten Dompu",
+    "Rata-Rata Lama Sekolah (Tahun)":7.83,
+    "Tahun":2015
+  },
+  {
+    "#":116,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.06,
+    "Kode Kabupaten\/Kota":5206,
+    "Nama Kabupaten\/Kota":"Kabupaten Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":7.36,
+    "Tahun":2015
+  },
+  {
+    "#":117,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.07,
+    "Kode Kabupaten\/Kota":5207,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":7.68,
+    "Tahun":2015
+  },
+  {
+    "#":118,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.08,
+    "Kode Kabupaten\/Kota":5208,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Utara",
+    "Rata-Rata Lama Sekolah (Tahun)":5.22,
+    "Tahun":2015
+  },
+  {
+    "#":119,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.71,
+    "Kode Kabupaten\/Kota":5271,
+    "Nama Kabupaten\/Kota":"Kota Mataram",
+    "Rata-Rata Lama Sekolah (Tahun)":9.05,
+    "Tahun":2015
+  },
+  {
+    "#":120,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.72,
+    "Kode Kabupaten\/Kota":5272,
+    "Nama Kabupaten\/Kota":"Kota Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":9.96,
+    "Tahun":2015
+  },
+  {
+    "#":121,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.0,
+    "Kode Kabupaten\/Kota":5200,
+    "Nama Kabupaten\/Kota":"Nusa Tenggara Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":6.71,
+    "Tahun":2015
+  },
+  {
+    "#":122,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.01,
+    "Kode Kabupaten\/Kota":5201,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":5.63,
+    "Tahun":2014
+  },
+  {
+    "#":123,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.02,
+    "Kode Kabupaten\/Kota":5202,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Tengah",
+    "Rata-Rata Lama Sekolah (Tahun)":5.52,
+    "Tahun":2014
+  },
+  {
+    "#":124,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.03,
+    "Kode Kabupaten\/Kota":5203,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Timur",
+    "Rata-Rata Lama Sekolah (Tahun)":6.06,
+    "Tahun":2014
+  },
+  {
+    "#":125,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.04,
+    "Kode Kabupaten\/Kota":5204,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa",
+    "Rata-Rata Lama Sekolah (Tahun)":7.31,
+    "Tahun":2014
+  },
+  {
+    "#":126,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.05,
+    "Kode Kabupaten\/Kota":5205,
+    "Nama Kabupaten\/Kota":"Kabupaten Dompu",
+    "Rata-Rata Lama Sekolah (Tahun)":7.45,
+    "Tahun":2014
+  },
+  {
+    "#":127,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.06,
+    "Kode Kabupaten\/Kota":5206,
+    "Nama Kabupaten\/Kota":"Kabupaten Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":7.29,
+    "Tahun":2014
+  },
+  {
+    "#":128,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.07,
+    "Kode Kabupaten\/Kota":5207,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":7.44,
+    "Tahun":2014
+  },
+  {
+    "#":129,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.08,
+    "Kode Kabupaten\/Kota":5208,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Utara",
+    "Rata-Rata Lama Sekolah (Tahun)":4.97,
+    "Tahun":2014
+  },
+  {
+    "#":130,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.71,
+    "Kode Kabupaten\/Kota":5271,
+    "Nama Kabupaten\/Kota":"Kota Mataram",
+    "Rata-Rata Lama Sekolah (Tahun)":9.04,
+    "Tahun":2014
+  },
+  {
+    "#":131,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.72,
+    "Kode Kabupaten\/Kota":5272,
+    "Nama Kabupaten\/Kota":"Kota Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":9.58,
+    "Tahun":2014
+  },
+  {
+    "#":132,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.0,
+    "Kode Kabupaten\/Kota":5200,
+    "Nama Kabupaten\/Kota":"Nusa Tenggara Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":6.67,
+    "Tahun":2014
+  },
+  {
+    "#":133,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.01,
+    "Kode Kabupaten\/Kota":5201,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":5.38,
+    "Tahun":2013
+  },
+  {
+    "#":134,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.02,
+    "Kode Kabupaten\/Kota":5202,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Tengah",
+    "Rata-Rata Lama Sekolah (Tahun)":5.36,
+    "Tahun":2013
+  },
+  {
+    "#":135,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.03,
+    "Kode Kabupaten\/Kota":5203,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Timur",
+    "Rata-Rata Lama Sekolah (Tahun)":5.94,
+    "Tahun":2013
+  },
+  {
+    "#":136,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.04,
+    "Kode Kabupaten\/Kota":5204,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa",
+    "Rata-Rata Lama Sekolah (Tahun)":7.19,
+    "Tahun":2013
+  },
+  {
+    "#":137,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.05,
+    "Kode Kabupaten\/Kota":5205,
+    "Nama Kabupaten\/Kota":"Kabupaten Dompu",
+    "Rata-Rata Lama Sekolah (Tahun)":7.4,
+    "Tahun":2013
+  },
+  {
+    "#":138,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.06,
+    "Kode Kabupaten\/Kota":5206,
+    "Nama Kabupaten\/Kota":"Kabupaten Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":7.12,
+    "Tahun":2013
+  },
+  {
+    "#":139,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.07,
+    "Kode Kabupaten\/Kota":5207,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":7.28,
+    "Tahun":2013
+  },
+  {
+    "#":140,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.08,
+    "Kode Kabupaten\/Kota":5208,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Utara",
+    "Rata-Rata Lama Sekolah (Tahun)":4.89,
+    "Tahun":2013
+  },
+  {
+    "#":141,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.71,
+    "Kode Kabupaten\/Kota":5271,
+    "Nama Kabupaten\/Kota":"Kota Mataram",
+    "Rata-Rata Lama Sekolah (Tahun)":9.04,
+    "Tahun":2013
+  },
+  {
+    "#":142,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.72,
+    "Kode Kabupaten\/Kota":5272,
+    "Nama Kabupaten\/Kota":"Kota Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":9.46,
+    "Tahun":2013
+  },
+  {
+    "#":143,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.0,
+    "Kode Kabupaten\/Kota":5200,
+    "Nama Kabupaten\/Kota":"Nusa Tenggara Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":6.54,
+    "Tahun":2013
+  },
+  {
+    "#":144,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.01,
+    "Kode Kabupaten\/Kota":5201,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":5.15,
+    "Tahun":2012
+  },
+  {
+    "#":145,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.02,
+    "Kode Kabupaten\/Kota":5202,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Tengah",
+    "Rata-Rata Lama Sekolah (Tahun)":5.2,
+    "Tahun":2012
+  },
+  {
+    "#":146,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.03,
+    "Kode Kabupaten\/Kota":5203,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Timur",
+    "Rata-Rata Lama Sekolah (Tahun)":5.78,
+    "Tahun":2012
+  },
+  {
+    "#":147,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.04,
+    "Kode Kabupaten\/Kota":5204,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa",
+    "Rata-Rata Lama Sekolah (Tahun)":7.14,
+    "Tahun":2012
+  },
+  {
+    "#":148,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.05,
+    "Kode Kabupaten\/Kota":5205,
+    "Nama Kabupaten\/Kota":"Kabupaten Dompu",
+    "Rata-Rata Lama Sekolah (Tahun)":7.35,
+    "Tahun":2012
+  },
+  {
+    "#":149,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.06,
+    "Kode Kabupaten\/Kota":5206,
+    "Nama Kabupaten\/Kota":"Kabupaten Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":6.93,
+    "Tahun":2012
+  },
+  {
+    "#":150,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.07,
+    "Kode Kabupaten\/Kota":5207,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":7.14,
+    "Tahun":2012
+  },
+  {
+    "#":151,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.08,
+    "Kode Kabupaten\/Kota":5208,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Utara",
+    "Rata-Rata Lama Sekolah (Tahun)":4.63,
+    "Tahun":2012
+  },
+  {
+    "#":152,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.71,
+    "Kode Kabupaten\/Kota":5271,
+    "Nama Kabupaten\/Kota":"Kota Mataram",
+    "Rata-Rata Lama Sekolah (Tahun)":8.61,
+    "Tahun":2012
+  },
+  {
+    "#":153,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.72,
+    "Kode Kabupaten\/Kota":5272,
+    "Nama Kabupaten\/Kota":"Kota Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":9.3,
+    "Tahun":2012
+  },
+  {
+    "#":154,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.0,
+    "Kode Kabupaten\/Kota":5200,
+    "Nama Kabupaten\/Kota":"Nusa Tenggara Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":6.33,
+    "Tahun":2012
+  },
+  {
+    "#":155,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.01,
+    "Kode Kabupaten\/Kota":5201,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":4.98,
+    "Tahun":2011
+  },
+  {
+    "#":156,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.02,
+    "Kode Kabupaten\/Kota":5202,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Tengah",
+    "Rata-Rata Lama Sekolah (Tahun)":4.96,
+    "Tahun":2011
+  },
+  {
+    "#":157,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.03,
+    "Kode Kabupaten\/Kota":5203,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Timur",
+    "Rata-Rata Lama Sekolah (Tahun)":5.61,
+    "Tahun":2011
+  },
+  {
+    "#":158,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.04,
+    "Kode Kabupaten\/Kota":5204,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa",
+    "Rata-Rata Lama Sekolah (Tahun)":7.1,
+    "Tahun":2011
+  },
+  {
+    "#":159,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.05,
+    "Kode Kabupaten\/Kota":5205,
+    "Nama Kabupaten\/Kota":"Kabupaten Dompu",
+    "Rata-Rata Lama Sekolah (Tahun)":7.06,
+    "Tahun":2011
+  },
+  {
+    "#":160,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.06,
+    "Kode Kabupaten\/Kota":5206,
+    "Nama Kabupaten\/Kota":"Kabupaten Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":6.74,
+    "Tahun":2011
+  },
+  {
+    "#":161,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.07,
+    "Kode Kabupaten\/Kota":5207,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":6.94,
+    "Tahun":2011
+  },
+  {
+    "#":162,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.08,
+    "Kode Kabupaten\/Kota":5208,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Utara",
+    "Rata-Rata Lama Sekolah (Tahun)":4.43,
+    "Tahun":2011
+  },
+  {
+    "#":163,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.71,
+    "Kode Kabupaten\/Kota":5271,
+    "Nama Kabupaten\/Kota":"Kota Mataram",
+    "Rata-Rata Lama Sekolah (Tahun)":8.47,
+    "Tahun":2011
+  },
+  {
+    "#":164,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.72,
+    "Kode Kabupaten\/Kota":5272,
+    "Nama Kabupaten\/Kota":"Kota Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":9.14,
+    "Tahun":2011
+  },
+  {
+    "#":165,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.0,
+    "Kode Kabupaten\/Kota":5200,
+    "Nama Kabupaten\/Kota":"Nusa Tenggara Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":6.07,
+    "Tahun":2011
+  },
+  {
+    "#":166,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.01,
+    "Kode Kabupaten\/Kota":5201,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":4.72,
+    "Tahun":2010
+  },
+  {
+    "#":167,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.02,
+    "Kode Kabupaten\/Kota":5202,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Tengah",
+    "Rata-Rata Lama Sekolah (Tahun)":4.55,
+    "Tahun":2010
+  },
+  {
+    "#":168,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.03,
+    "Kode Kabupaten\/Kota":5203,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Timur",
+    "Rata-Rata Lama Sekolah (Tahun)":5.14,
+    "Tahun":2010
+  },
+  {
+    "#":169,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.04,
+    "Kode Kabupaten\/Kota":5204,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa",
+    "Rata-Rata Lama Sekolah (Tahun)":6.84,
+    "Tahun":2010
+  },
+  {
+    "#":170,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.05,
+    "Kode Kabupaten\/Kota":5205,
+    "Nama Kabupaten\/Kota":"Kabupaten Dompu",
+    "Rata-Rata Lama Sekolah (Tahun)":7.0,
+    "Tahun":2010
+  },
+  {
+    "#":171,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.06,
+    "Kode Kabupaten\/Kota":5206,
+    "Nama Kabupaten\/Kota":"Kabupaten Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":6.55,
+    "Tahun":2010
+  },
+  {
+    "#":172,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.07,
+    "Kode Kabupaten\/Kota":5207,
+    "Nama Kabupaten\/Kota":"Kabupaten Sumbawa Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":6.75,
+    "Tahun":2010
+  },
+  {
+    "#":173,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.08,
+    "Kode Kabupaten\/Kota":5208,
+    "Nama Kabupaten\/Kota":"Kabupaten Lombok Utara",
+    "Rata-Rata Lama Sekolah (Tahun)":4.23,
+    "Tahun":2010
+  },
+  {
+    "#":174,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.71,
+    "Kode Kabupaten\/Kota":5271,
+    "Nama Kabupaten\/Kota":"Kota Mataram",
+    "Rata-Rata Lama Sekolah (Tahun)":8.15,
+    "Tahun":2010
+  },
+  {
+    "#":175,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.72,
+    "Kode Kabupaten\/Kota":5272,
+    "Nama Kabupaten\/Kota":"Kota Bima",
+    "Rata-Rata Lama Sekolah (Tahun)":9.12,
+    "Tahun":2010
+  },
+  {
+    "#":176,
+    "Kode Provinsi":52,
+    "Nama Provinsi":"Nusa Tenggara Barat",
+    "Kode Kabupaten\/Kota (Kemendagri)":52.0,
+    "Kode Kabupaten\/Kota":5200,
+    "Nama Kabupaten\/Kota":"Nusa Tenggara Barat",
+    "Rata-Rata Lama Sekolah (Tahun)":5.73,
+    "Tahun":2010
+  }
+]
